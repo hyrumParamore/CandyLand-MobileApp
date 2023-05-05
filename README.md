@@ -21,7 +21,7 @@ The purpose of creating this app was because of an issue that comes up when play
 
 * Xcode
 * Visual Studio Code
-* Swift/ SwiftUI
+* Swift / SwiftUI
 * Git / Github
 * Figma
 
