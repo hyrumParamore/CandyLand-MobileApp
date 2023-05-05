@@ -43,7 +43,7 @@ The purpose of creating this app was because of an issue that comes up when play
 
 # Credit
 ## [Hunter Paramore](https://admiregd.com/about-me) 
-Brother and Lead UI/UX Designer for Mutual, The Dating App
+* Brother and Lead UI/UX Designer for Mutual, The Dating App.
 * Created the assets used in the app. This being all of the cards.
 
 ## [Hacking With Swift](https://www.hackingwithswift.com/) - Paul Hudson 
