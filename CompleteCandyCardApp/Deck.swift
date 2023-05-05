@@ -7,6 +7,8 @@
 
 import Foundation
 
+// Creates a deck that holds all of the Cards and stores it into an array to
+// allow for easier use later.
 struct Deck {
     var cards: [Card] = []
     var numOfCards: Int
